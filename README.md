@@ -1,6 +1,6 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
+### DATE: 12/12/23
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -27,14 +27,52 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![image](https://github.com/SHARIKA818/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139834761/7476f3df-cf4f-4ca2-8fa6-f5e54740786f)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
+# Y-Axis Base :
+The base of the printer that supports the rest of the components
 
+# Z-Axis Frame :
+This is the frame that holds the print head and moves it up and down along the vertical axis.
+
+# Smooth Rods :
+The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+
+# Motors :
+provide the power to move the Z-axis frame and the print head.
+
+# Extruder Supporter :
+The support structure that holds the extruder assembly.
+
+# Threaded Rod :
+Threaded rod that provides the power to move the Z-axis frame up and down.
+
+# Y-Axis Frame :
+The frame that moves the print head in the horizontal plane.
+
+# Motor with Gear :
+provides the power to move the Y-axis frame
+
+# Motor-with-Pulley :
+provides the power to move the Z-axis frame.
+
+# Gears :
+Transfer power from the stepper motors to the threaded rod and the smooth rods.
+
+# Plate :
+plate where the printed object is created.
+
+# Extruder :
+melts and extrudes the filament to create the printed object.
+
+# Filament :
+material that is used to create the printed object.
 ## Output:
+# playing with axes
+![Screenshot 2023-12-12 201200](https://github.com/SHARIKA818/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139834761/f161d9d9-9df0-4831-89b7-ba7056a03667)
 
-### Name:
-### Register Number:
+### Name:SHARIKA.R
+### Register Number:23000444
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
